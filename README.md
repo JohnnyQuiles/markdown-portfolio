@@ -8,7 +8,7 @@ If you ever have any questions about Markdown syntax, feel free to reference the
 
 1. Start by forking this repository
 1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
-    * A title (your name)
+    * Johnny Quiles
     * At least one picture
     * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
     * At least one bullet point list
