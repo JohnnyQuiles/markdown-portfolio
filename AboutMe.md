@@ -12,10 +12,10 @@ If you ever have any questions about Markdown syntax, feel free to reference the
     * ![tempImage5SverC](https://user-images.githubusercontent.com/79813390/132383393-27baa3ba-8e88-41a0-8188-db347cfdf9d9.gif)
 
     * https://github.com/JohnnyQuiles
-    * Hello
-    * 1.
-    * 2.
-    * 3.
+    * About Me 
+    * 1. Im a father to my beautful 3 year old daughter. Her name is Serena.
+    * 2. Im a U.S NAVY Veteran, was active duty on aircraft carrier USS HARRY S TRUMAN as a AviationBoatswainmate Handler (ABH). 
+    * 3. I enjoy many activities from indoors to outdoors. :'D
     
     
 1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
