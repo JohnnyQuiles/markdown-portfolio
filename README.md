@@ -12,7 +12,7 @@ If you ever have any questions about Markdown syntax, feel free to reference the
     * ![tempImage5SverC](https://user-images.githubusercontent.com/79813390/132383393-27baa3ba-8e88-41a0-8188-db347cfdf9d9.gif)
 
     * https://github.com/JohnnyQuiles
-    * Hello Is My Page
+    * Hello
     * 1.
     * 2.
     * 3.
