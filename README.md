@@ -9,7 +9,8 @@ If you ever have any questions about Markdown syntax, feel free to reference the
 1. Start by forking this repository
 1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
     * Johnny Quiles
-    * At least one picture
+    * ![tempImage5SverC](https://user-images.githubusercontent.com/79813390/132383393-27baa3ba-8e88-41a0-8188-db347cfdf9d9.gif)
+
     * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
     * At least one bullet point list
     * At least one numbered list
