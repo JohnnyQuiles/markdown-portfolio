@@ -11,9 +11,13 @@ If you ever have any questions about Markdown syntax, feel free to reference the
     * Johnny Quiles
     * ![tempImage5SverC](https://user-images.githubusercontent.com/79813390/132383393-27baa3ba-8e88-41a0-8188-db347cfdf9d9.gif)
 
-    * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
-    * At least one bullet point list
-    * At least one numbered list
+    * https://github.com/JohnnyQuiles
+    * Hello Is My Page
+    * 1.
+    * 2.
+    * 3.
+    
+    
 1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
 1. Once you're done with this, adjust the settings of your repoistory to enable GitHub Pages. This should provide you a URL at which your project is hosted.
 2. Update the "About" section of your repository so that your project's "website" is the GitHub Pages URL
